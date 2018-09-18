@@ -1,2 +1,2 @@
 # Calculator_with_python
-This mini-project is a Program that does a operation for yoy :) PD: I am a begginer and I'll upload here the projects that I do sometimes :)
+Este pequeño projecto puede hacerte una operación como si cualquier otra casio :) PD: soy un programador novato, voy a ir subiendo cositas que vaya haciendo mientras voy aprendiendo
